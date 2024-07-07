@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "CT8iNHV4426hCgVA8fRZu36v38gUoa6TkpU12M3fAwkeV/JsXcde+7jJ0Kw4CUjHnvFirT6oRTCDdBIB6R4a1w==",
+  "success": true,
+  "projectFilePath": "D:\\My-Projects\\drag-drop-serializer\\serializer\\serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\YuvarajAnbazhagan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
